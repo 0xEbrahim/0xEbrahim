@@ -7,3 +7,5 @@ I'm a Malware analysis and reverse engineering wannabe.<br>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86-Anubis&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
+<br>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
