@@ -1,6 +1,6 @@
 ## Hi there.
-I'm Ebrahim but you can call me Anubis/x86Anubis/CAnubis.<br>
-I'm a Malware analysis and reverse engineering wannabe.<br>
+I'm Ebrahim<br>
+I'm a JR. Software Engineer.<br>
 <br><br><a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=x86-Anubis&show_icons=true&theme=tokyonight" />
 </a><br><br>
