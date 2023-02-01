@@ -10,4 +10,4 @@ I'm a JR. Software Engineer.<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEbrahim&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 <br>
-![Snake animation](https://github.com/x86-Anubis/x86-Anubis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/0xEbrahim/0xEbrahim/blob/output/github-contribution-grid-snake.svg)
