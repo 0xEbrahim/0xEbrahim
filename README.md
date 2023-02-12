@@ -113,6 +113,12 @@ I am a  Coding lover and very curious about learning new things..
 <br/>  
 
 
+
+   ![GitHub metrics](https://metrics.lecoq.io/0xEbrahim)  
+
+
+
+
 <br />
 
 
