@@ -99,4 +99,4 @@ I am a Coding lover and very curious about learning new things.</div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
