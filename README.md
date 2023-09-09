@@ -19,8 +19,8 @@
 
 
 
-### Glad to see you here!  
-<div align="center">A mildly intelligent guy who codes, I am a backend developer.
+### <div align="center"> Glad to see you here!  
+<div align="center"> A mildly intelligent guy who codes, I am a backend developer.
 
 studying computer engineering at faculty of engineering Mansoura university.
 I am a Coding lover and very curious about learning new things.</div>  
@@ -29,7 +29,7 @@ I am a Coding lover and very curious about learning new things.</div>
 <br/>  
 
 
-## Rapidfire  
+## <div align="center"> Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - <div align="center">🌱 I’m currently learning java spring boot</div>  
@@ -48,7 +48,7 @@ I am a Coding lover and very curious about learning new things.</div>
 <br/>  
 
 
-## Languages and Tools  
+## <div align="center"> Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -71,7 +71,7 @@ I am a Coding lover and very curious about learning new things.</div>
 <br/>  
 
 
-## Github Stats  
+## <div align="center"> Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xEbrahim&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
