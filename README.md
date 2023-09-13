@@ -32,7 +32,7 @@ I am a Coding lover and very curious about learning new things.</div>
 ## <div align="center"> Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- <div align="center">🌱 I’m currently learning java spring boot</div>  
+- <div align="center">🌱 I’m currently learning backend development</div>  
   
 
 - ❓ Ask me about anything related to backend stack and related technologies  
