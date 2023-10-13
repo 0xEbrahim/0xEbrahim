@@ -70,7 +70,7 @@ I am a Coding lover and very curious about learning new things.</div>
 
 <br/>  
 
-## <div align="center"> [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6501d7c63ee87ab4ca4f70f8?variant=dark)](https://roadmap.sh)
+## <div align="center"> <a href="https://app.daily.dev/ebrahimelsayed"><img src="https://api.daily.dev/devcards/30434d8f0c7e4a628eb2eb0ceda57c7f.png?r=x5m" width="400" alt="Ebrahim El-Sayed's Dev Card"/></a>
 ## <div align="center"> Github Stats  
 <table><tr><td valign="top" width="50%">
 
