@@ -70,7 +70,7 @@ I am a Coding lover and very curious about learning new things.</div>
 
 <br/>  
 
-## <div align="center"> <a href="https://app.daily.dev/ebrahimelsayed"><img src="https://api.daily.dev/devcards/30434d8f0c7e4a628eb2eb0ceda57c7f.png?r=x5m" width="400" alt="Ebrahim El-Sayed's Dev Card"/></a>
+## <div align="center"> [<a href="https://app.daily.dev/ebrahimelsayed"><img src="https://api.daily.dev/devcards/30434d8f0c7e4a628eb2eb0ceda57c7f.png?r=x5m" width="400" alt="Ebrahim El-Sayed's Dev Card"/></a>](https://api.daily.dev/devcards/30434d8f0c7e4a628eb2eb0ceda57c7f.png?r=ypa)
 ## <div align="center"> Github Stats  
 <table><tr><td valign="top" width="50%">
 
