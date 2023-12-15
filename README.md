@@ -17,8 +17,6 @@
 </div>  
   
 
-
-
 ### <div align="center"> Glad to see you here!  
 <div align="center"> A mildly intelligent guy who codes, I am a backend developer.
 
@@ -46,6 +44,7 @@ I am a Coding lover and very curious about learning new things.</div>
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## <div align="center"> Languages and Tools  
