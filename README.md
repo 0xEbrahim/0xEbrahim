@@ -48,7 +48,7 @@ I am a Coding lover and very curious about learning new things.</div>
 
 <div align="center">
 
-<a href="">[![GitHub Streak](https://streak-stats.demolab.com/?user=0xEbrahim)](https://git.io/streak-stats)</a>
+<a href="">[![GitHub Streak](https://streak-stats.demolab.com/?user=0xEbrahim&theme=dark)](https://git.io/streak-stats)</a>
 
 </div>
 
@@ -57,7 +57,7 @@ I am a Coding lover and very curious about learning new things.</div>
 
 <div align="center">
 
-  <a href="">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0xEbrahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+  <a href="">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0xEbrahim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 </div>
 <br/>  
