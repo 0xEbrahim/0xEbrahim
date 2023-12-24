@@ -54,8 +54,11 @@ I am a Coding lover and very curious about learning new things.</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-
+<div align="center">
+  
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xEbrahim&theme=monokai)
+  
+</div>
 <br/>  
 
 
