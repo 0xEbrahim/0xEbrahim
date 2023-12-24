@@ -31,24 +31,14 @@ I am a Coding lover and very curious about learning new things.</div>
 
 </div>
    
-## <div align="center"> Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- <div align="center">🌱 I’m currently learning backend development</div>  
   
+<div align="center">
 
-- ❓ Ask me about anything related to backend stack and related technologies  
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://media4.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif?cid=ecf05e47diiogkmftt96l39nt6oiioj4h8sww3h4ysk5m1tv&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="left" height="200" width="300" />  
-
-
-</td></tr></table>  
-
-<br/>  
-
+  ## Technology Stack: 
+<a href="">[![My Skills](https://skillicons.dev/icons?i=js,linux,nodejs,mongodb,mysql,expressjs,docker,postman,prisma,vscode,pug,ts,postgres,jest,git)](https://skillicons.dev)</a>
+</br>
+<a href="">[![My Skills](https://skillicons.dev/icons?i=github,bash)](https://skillicons.dev)</a>
+</div>
 
 <br/>  
 
