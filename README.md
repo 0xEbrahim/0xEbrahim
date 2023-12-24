@@ -50,6 +50,13 @@ I am a Coding lover and very curious about learning new things.</div>
 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+
+  <a href="">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0xEbrahim)](https://github.com/anuraghazra/github-readme-stats)</a>
+
+</div>
+   
 <br/>  
 
 
