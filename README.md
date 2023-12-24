@@ -46,17 +46,20 @@ I am a Coding lover and very curious about learning new things.</div>
 <img src="https://komarev.com/ghpvc/?username=0xEbrahim&&style=flat-square" align="center" />
 </div>  
 
+<div align="center">
 
+<a href="">[![GitHub Streak](https://streak-stats.demolab.com/?user=0xEbrahim)](https://git.io/streak-stats)</a>
 
-  
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <div align="center">
 
   <a href="">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0xEbrahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 </div>
-   
 <br/>  
 
 
