@@ -45,9 +45,10 @@ I am a Coding lover and very curious about learning new things.</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=0xEbrahim&&style=flat-square" align="center" />
 </div>  
-
+<br>
 <div align="center">
-
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/0xEbrahim?theme=dark&font=Francois%20One&ext=activity)
 
 </div>
 
