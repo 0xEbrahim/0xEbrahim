@@ -48,7 +48,6 @@ I am a Coding lover and very curious about learning new things.</div>
 
 <div align="center">
 
-<a href="">[![GitHub Streak](https://streak-stats.demolab.com/?user=0xEbrahim&theme=dark)](https://git.io/streak-stats)</a>
 
 </div>
 
