@@ -30,15 +30,7 @@ I am a Coding lover and very curious about learning new things.</div>
   <a href="">[![committers.top badge](https://user-badge.committers.top/egypt_private/0xEbrahim.svg)](https://user-badge.committers.top/egypt_private/0xEbrahim)</a>
 
 </div>
-   
   
-<div align="center">
-
-  ## Technology Stack: 
-<a href="">[![My Skills](https://skillicons.dev/icons?i=js,linux,nodejs,mongodb,mysql,expressjs,docker,postman,prisma,vscode,pug,ts,postgres,jest,git)](https://skillicons.dev)</a>
-</br>
-<a href="">[![My Skills](https://skillicons.dev/icons?i=github,bash)](https://skillicons.dev)</a>
-</div>
 
 <br/>  
 
