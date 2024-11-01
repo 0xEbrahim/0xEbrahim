@@ -18,7 +18,7 @@
   
 
 ### <div align="center"> Glad to see you here!  
-<div align="center"> A mildly intelligent guy who codes, Back-End developer.
+<div align="center"> A mildly intelligent guy who codes, Back-End developer.<br>
 
 <br/>  
 <div align="center">
