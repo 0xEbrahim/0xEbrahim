@@ -18,11 +18,7 @@
   
 
 ### <div align="center"> Glad to see you here!  
-<div align="center"> A mildly intelligent guy who codes, I am a backend developer.
-
-studying computer engineering at faculty of engineering Mansoura university.
-I am a Coding lover and very curious about learning new things.</div>  
-  
+<div align="center"> A mildly intelligent guy who codes, Back-End developer.
 
 <br/>  
 <div align="center">
