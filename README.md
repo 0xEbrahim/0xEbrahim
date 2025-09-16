@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xEbrahim/count.svg?"  />
-</div>
 <br>
 <div align="center">
 
