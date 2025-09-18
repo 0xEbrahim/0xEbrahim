@@ -1,4 +1,4 @@
-# Ibrahim | 0xEbrahim - The Code Hokage
+# Ibrahim | 0xEbrahim - The Coding Hokage
 
 <div align="center">
 
