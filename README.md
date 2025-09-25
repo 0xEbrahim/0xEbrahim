@@ -62,7 +62,6 @@ Problem Solving        ███████████████████
 DevOps Skills          ██████████████████     Hokage Level
 System Architecture    ███████████████        Jonin Level
 ```
-
 ## Connect with this Shinobi
 
 <div align="center">
