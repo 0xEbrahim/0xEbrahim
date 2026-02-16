@@ -7,6 +7,7 @@
 
 </div>
 
+
 ## My Ninja Way
 
 <div align="center">
